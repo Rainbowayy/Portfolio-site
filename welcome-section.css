@@ -1,0 +1,29 @@
+
+label{
+    border-radius:50%;
+    color:black;
+    background-color:red;
+    margin-left:5%;
+    padding:4px 6px 4px 6px;
+    font-size:13px;
+}
+#sidebar-nav{
+    width:10%;
+    height:100vh;
+    border-right:2px solid grey;
+}
+#top-bar{
+    width:auto;
+    text-align:center;
+    border-bottom:2px solid grey;
+}
+#channels-title{
+    list-style-type:none;
+}
+#body-text-position{
+    text-align:center;
+    margin-top:-50%;
+}
+.dropdown-alignment{
+    text-align:center;
+}
